@@ -1,1 +1,1 @@
-# project_management_template
+plugins to explore.
