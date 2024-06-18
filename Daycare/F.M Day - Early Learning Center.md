@@ -6,6 +6,7 @@ wait listed?: Yes
 tags:
   - personal
   - "#bella"
+website: https://fmday.wps.org/
 ---
 ### General Thoughts
 
@@ -14,4 +15,5 @@ tags:
 ### Cost
 
 ### To Do's
-- [ ] get added to waitlist📅 2024-06-17 
+- [ ] get added to waitlist 📅 2024-06-17 
+
