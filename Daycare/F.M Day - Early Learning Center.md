@@ -15,5 +15,5 @@ website: https://fmday.wps.org/
 ### Cost
 
 ### To Do's
-- [ ] get added to waitlist 📅 2024-06-17 
+- [x] get added to waitlist 📅 2024-06-17 ✅ 2024-06-18
 
