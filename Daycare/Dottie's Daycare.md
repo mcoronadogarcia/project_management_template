@@ -7,6 +7,7 @@ tags:
   - personal
   - "#bella"
 website: https://dottiesdaycarechristiancenter.com/
+tour guide: Martha - Owner
 ---
 ### General Thoughts & Tour Notes
 - staff retention is high
@@ -20,4 +21,4 @@ website: https://dottiesdaycarechristiancenter.com/
 - Infant/Toddler: $1,030 / month
 - 2 1/2 years old and up: $825 / month
 ### To Do's
-- [x] get added to waitlist 📅 2024-06-18 ✅ 2024-06-18
+- [ ] get added to waitlist 📅 2024-06-18
