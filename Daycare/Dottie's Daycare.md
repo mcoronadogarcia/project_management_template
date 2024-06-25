@@ -21,4 +21,4 @@ tour guide: Martha - Owner
 - Infant/Toddler: $1,030 / month
 - 2 1/2 years old and up: $825 / month
 ### To Do's
-- [ ] get added to waitlist 📅 2024-06-18
+- [x] get added to waitlist 📅 2024-06-18 ✅ 2024-06-25
